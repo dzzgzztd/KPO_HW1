@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "showtimeId": 1,
+        "seatNumber": 14,
+        "isSold": true
+    },
+    {
+        "id": 2,
+        "showtimeId": 1,
+        "seatNumber": 15,
+        "isSold": true
+    },
+    {
+        "id": 3,
+        "showtimeId": 3,
+        "seatNumber": 42,
+        "isSold": true
+    },
+    {
+        "id": 4,
+        "showtimeId": 1,
+        "seatNumber": 99,
+        "isRefunded": true
+    }
+]

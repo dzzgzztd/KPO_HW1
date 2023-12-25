@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Apocalypse now",
+        "description": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, “does not exist, nor will it ever exist.” His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory."
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge."
+    },
+    {
+        "id": 3,
+        "title": "Taxi Driver",
+        "description": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action."
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster’s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time."
+    },
+    {
+        "id": 5,
+        "title": "Fight Club",
+        "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground “fight clubs” forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion."
+    },
+    {
+        "id": 6,
+        "title": "The Silence of the Lambs",
+        "description": "Clarice Starling is a top student at the FBI’s training academy. Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
+    },
+    {
+        "id": 7,
+        "title": "One Flew Over the Cuckoo’s Nest",
+        "description": "While serving time for insanity at a state mental hospital, implacable rabble-rouser, Randle Patrick McMurphy, inspires his fellow patients to rebel against the authoritarian rule of head nurse, Mildred Ratched."
+    },
+    {
+        "id": 8,
+        "title": "Blade Runner",
+        "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans."
+    },
+    {
+        "id": 9,
+        "title": "2001: A Space Odyssey",
+        "description": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world’s most advanced super computer."
+    },
+    {
+        "id": 10,
+        "title": "Mirror",
+        "description": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life."
+    }
+]
